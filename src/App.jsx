@@ -50,7 +50,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Real-Time Weather Tracker</h1>
+      <h1>Real-Time Weather Tracker HEHE</h1>
       <div className="input-container">
         <input
           type="text"
