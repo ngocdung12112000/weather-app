@@ -29,6 +29,3 @@ dist-ssr/
 *.sln
 *.sw?
 
-# Docker
-Dockerfile
-.dockerignore
